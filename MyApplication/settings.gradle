@@ -1,0 +1,1 @@
+include ':Group10_InClass02', ':app', ':base', ':instantapp'

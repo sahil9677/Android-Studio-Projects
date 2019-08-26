@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsAPI</string>
+    <string name="show">SHOW CATEGORY:</string>
+    <string name="go">GO</string>
+</resources>

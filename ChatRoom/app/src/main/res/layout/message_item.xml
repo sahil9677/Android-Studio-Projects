@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/messageDisplay"
+        android:layout_width="350dp"
+        android:layout_height="41dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginEnd="11dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/messageDisplay"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="93dp"
+        app:srcCompat="@drawable/default_photo" />
+
+    <ImageButton
+        android:id="@+id/delete"
+        android:layout_width="58dp"
+        android:layout_height="92dp"
+        android:layout_below="@+id/messageDisplay"
+        android:layout_alignEnd="@+id/messageDisplay"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="302dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="13dp"
+        android:background="#0000"
+        app:srcCompat="@android:drawable/ic_menu_delete" />
+
+    <TextView
+        android:id="@+id/firstNameDisplay"
+        android:layout_width="148dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="24dp" />
+
+    <TextView
+        android:id="@+id/timeDisplay"
+        android:layout_width="136dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toEndOf="@+id/firstNameDisplay" />
+</RelativeLayout>

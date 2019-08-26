@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+    <string name="my_trips">My Trips</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="trip_name">Trip Name:</string>
+    <string name="search">Search for places in this city</string>
+    <string name="done">Done</string>
+    <string name="city">City:</string>
+    <string name="keyword">Select Keyword</string>
+    <string name="add_place">Add Place</string>
+    <string name="date">Select Date</string>
+</resources>

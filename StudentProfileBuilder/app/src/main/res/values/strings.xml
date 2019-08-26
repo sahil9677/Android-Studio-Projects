@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Profile Builder</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="student_id">Student Id</string>
+    <string name="department">Department</string>
+    <string name="save">Save</string>
+    <string name="name">Name:</string>
+    <string name="id">Student id:</string>
+    <string name="dept">Department</string>
+</resources>

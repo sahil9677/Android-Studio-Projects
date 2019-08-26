@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BAC Level Calculator</string>
+    <string name="wight">Weight (lbs)</string>
+    <string name="enter_w">Enter Weight</string>
+    <string name="save">Save</string>
+    <string name="drink">Drink Size</string>
+    <string name="oz1">1 oz</string>
+    <string name="oz5">5 oz</string>
+    <string name="oz12">12 oz</string>
+    <string name="alcohol">ALcohol %</string>
+    <string name="add">Add Drink</string>
+    <string name="reset">Reset</string>
+    <string name="bac">BAC Level:</string>
+    <string name="status">Your Status:</string>
+</resources>

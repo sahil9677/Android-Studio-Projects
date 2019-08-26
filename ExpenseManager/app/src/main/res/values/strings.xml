@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="expenses">Expenses:</string>
+    <string name="cast">Sort by cast</string>
+    <string name="cost">Sort by Cost</string>
+    <string name="date">Sort by Date</string>
+    <string name="reset">Reset All</string>
+    <string name="total">Total:</string>
+    <string name="add">Add Expense:</string>
+    <string name="name">Name</string>
+    <string name="cost_1">Cost</string>
+    <string name="date1">Date</string>
+    <string name="pick">Pick a Date</string>
+    <string name="receipt">Receipt</string>
+    <string name="choose">Choose An Image</string>
+    <string name="edit">Edit Expense</string>
+    <string name="no_expense">There is no expense to show, Please add your expenses from the menu.</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="category">Date:</string>
+    <string name="details">Expense Details</string>
+</resources>

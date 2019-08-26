@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityForResultExample</string>
+    <string name="main_activity_title">Main Activity</string>
+    <string name="gotosecond">Go to Second Activity</string>
+    <string name="enter_text">Enter Some Text</string>
+    <string name="send">Send Result</string>
+</resources>

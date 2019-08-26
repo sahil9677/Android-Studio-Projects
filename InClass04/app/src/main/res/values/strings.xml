@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="async_t">Async Task</string>
+    <string name="thread">Thread</string>
+    <string name="usingT">Password Generated Using Thread:</string>
+    <string name="usingA">Password Generated using AsyncTask:</string>
+</resources>

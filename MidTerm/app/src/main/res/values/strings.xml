@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MidTerm</string>
+    <string name="limit">Limit:</string>
+    <string name="search">SEARCH</string>
+    <string name="sort">Sort By:</string>
+    <string name="result">Search Result</string>
+</resources>

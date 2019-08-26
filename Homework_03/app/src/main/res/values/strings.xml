@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Homework_03</string>
+    <string name="term">Search Keyword</string>
+    <string name="limit">Limit</string>
+    <string name="search">search</string>
+    <string name="reset">Reset</string>
+    <string name="sort_by">Sort By:</string>
+    <string name="price">Price</string>
+    <string name="date">Date</string>
+    <string name="genre">Genre:</string>
+    <string name="artist">Artist:</string>
+    <string name="album">Album:</string>
+    <string name="track_price">Track Price:</string>
+    <string name="album_price">Album Price:</string>
+    <string name="finish">Finish</string>
+    <string name="results">Results</string>
+    <string name="track">Track:</string>
+    <string name="loading">LOADING...</string>
+</resources>

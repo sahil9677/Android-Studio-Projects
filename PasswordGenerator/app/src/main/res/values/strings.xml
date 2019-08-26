@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="thread">For Thread:</string>
+    <string name="count">Select Password Count:</string>
+    <string name="length">Select Password Length</string>
+    <string name="usingT">Password Generated using Thread:</string>
+    <string name="usingA">Password Generated using AsyncTask:</string>
+    <string name="finish">Finish</string>
+    <string name="generate">Generate</string>
+    <string name="async">For Async:</string>
+</resources>

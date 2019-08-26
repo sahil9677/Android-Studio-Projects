@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditExpense">
+
+    <TextView
+        android:id="@+id/EtextView4"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/edit"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/EtextView5"
+        android:layout_width="79dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="55dp"
+        android:text="@string/name"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/EeditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="54dp"
+        android:layout_marginEnd="36dp"
+        android:ems="10"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/EtextView7"
+        android:layout_width="79dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="116dp"
+        android:text="@string/cost_1"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/EeditText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="114dp"
+        android:layout_marginEnd="36dp"
+        android:ems="10"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/EtextView8"
+        android:layout_width="76dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="176dp"
+        android:text="@string/date1"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/Ebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="173dp"
+        android:layout_marginEnd="5dp"
+        android:text="@string/pick" />
+
+    <TextView
+        android:id="@+id/Edate"
+        android:layout_width="145dp"
+        android:layout_height="43dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="122dp"
+        android:layout_marginTop="173dp"
+        android:layout_marginEnd="117dp"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/EtextView10"
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="235dp"
+        android:text="@string/receipt"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/Ebutton2"
+        android:layout_width="163dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="237dp"
+        android:layout_marginEnd="90dp"
+        android:text="@string/choose" />
+
+    <Button
+        android:id="@+id/Ebutton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="442dp"
+        android:layout_marginEnd="148dp"
+        android:text="@string/edit" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="173dp"
+        android:layout_height="147dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="109dp"
+        android:layout_marginTop="290dp"
+        android:layout_marginEnd="102dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/edit" />
+
+</RelativeLayout>
